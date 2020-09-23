@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/29/user/1359941).
-* Наставник: `Неизвестно`.
+* Студент: [Рим Хайруллин](https://up.htmlacademy.ru/htmlcss/29/user/1359941).
+* Наставник: [Дмитрий Иовлев](https://up.htmlacademy.ru/htmlcss/29/user/200490).
 
 ---
 
